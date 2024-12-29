@@ -1,0 +1,8 @@
+streamlit==1.41.1
+llama-index==0.12.8
+sentence-transformers==2.7.0
+chromadb==0.5.23
+uvicorn==0.34.0
+fastapi==0.115.6
+pandas==2.2.3
+numpy==2.2.1
