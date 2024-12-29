@@ -1,6 +1,6 @@
 import streamlit as st
 import logging
-from llama_index.vector_stores.chroma import ChromaVectorStore
+from llama_index.vector_stores import ChromaVectorStore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext
 
