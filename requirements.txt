@@ -1,8 +1,9 @@
-streamlit==1.41.1
 llama-index==0.12.8
-sentence-transformers==2.7.0
 chromadb==0.5.23
-uvicorn==0.34.0
+sentence-transformers==2.2.0
+streamlit==1.25.0
+numpy==1.24.4
+pandas==2.1.1
 fastapi==0.115.6
-pandas==2.2.3
-numpy==2.2.1
+uvicorn==0.23.0
+
